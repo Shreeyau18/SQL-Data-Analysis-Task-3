@@ -1,4 +1,11 @@
+SQL-Data-Analysis-Task-3/
+├── ecommerce.db
+├── task3_sql_queries.sql
+├── README.md
+└── screenshots/
+
 # SQL-Data-Analysis-Task-3
+
 ## Objective
 Analyze an e-commerce database using SQL queries.
 
